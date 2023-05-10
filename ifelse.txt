@@ -6,3 +6,4 @@ echo my age is $age
 else
 echo you are small
 fi
+echo this is code from AWS
