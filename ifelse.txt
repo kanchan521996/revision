@@ -1,0 +1,8 @@
+echo what is your age
+read age
+if [ $age -le 18  ]
+then
+echo my age is $age
+else
+echo you are small
+fi
